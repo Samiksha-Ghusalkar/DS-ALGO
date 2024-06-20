@@ -252,7 +252,7 @@ public class L001 {
     }
      // ================================Solve Function=============================//
      public static void solve() {
-        // printIncreasing(1, 5);
+         printIncreasing(1, 5);
         // PrintDecreasing(int a, int b);
         // PrintINCREDecr(1,5);
 
@@ -287,6 +287,7 @@ public class L001 {
         // int blockcell[][] = { { 0, 1, 0 }, { 0, 0, 0 }, { 0, 1, 0 } };
         // int arr[][] = { { 2, 1, 1, 1 }, { 3, 1, 0, 1 }, { 1, 1, 1, 1 },
         // { 0, 1, 1, 1 } };
+        
         // MazePath(0, 0, 3, 3, "",arr);
      }
      public static void main(String args[])
